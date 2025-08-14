@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-```markdown
 # LunarPhasesForexAnalysis
 
-[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-311/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Análisis de la influencia de las fases lunares en los retornos y la volatilidad del par EUR/USD en el mercado Forex, segmentado en períodos pre-pandemia, pandemia y pos-pandemia. Este proyecto utiliza datos M1 (1 minuto) y la librería Swiss Ephemeris para calcular fases lunares, generando estadísticas descriptivas, pruebas estadísticas, y visualizaciones. Los resultados están disponibles en CSVs y gráficos PNG, ideales para traders e investigadores financieros interesados en explorar factores emocionales en el trading.
 
@@ -151,8 +147,3 @@ Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
 ---
 
 **¡Únete al debate!** ¿Crees que las fases lunares afectan tus decisiones de trading? Prueba el código, revisa los resultados, y comparte tus experiencias en [Rankia](https://www.rankia.com/) o en los issues de este repositorio.
-```
-=======
-# LunarPhasesForexAnalysis
-Lunar Phases Forex Analysis
->>>>>>> cad48759bf0d460135378a316ec3b6e78931c2eb
