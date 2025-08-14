@@ -1,8 +1,36 @@
-data/processed/plots/*.png
-*.csv
-scripts/summarize_results_for_analysis.py
-lunar_phases/
-__pycache__/
-.vscode/
+# Archivos de configuración sensibles
 .env
-venv/
+
+# Datos financieros y resultados generados
+data/financial_data/*
+data/processed/*
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entorno virtual
+venv311/
+
+# Archivos generados por LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.pdf
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+
+# Archivos del sistema operativo
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Notas:
+# - Los archivos en data/lunar_data/swisseph_dll/ (libswe.dll, semo_18.se1, sepl_18.se1) están incluidos en el repositorio.
+# - Asegúrate de no incluir datos financieros sensibles en data/financial_data/.
+# - Los resultados en data/processed/ (CSVs, gráficos) se generan al ejecutar los scripts.
