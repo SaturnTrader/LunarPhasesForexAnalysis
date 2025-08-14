@@ -14,7 +14,7 @@ __pycache__/
 # Entorno virtual
 venv311/
 venv/
-lunar_phases
+lunar_phases/
 
 # Archivos generados por LaTeX
 *.aux
@@ -36,3 +36,6 @@ Thumbs.db  # Windows
 # - Los archivos en data/lunar_data/swisseph_dll/ (libswe.dll, semo_18.se1, sepl_18.se1) están incluidos en el repositorio.
 # - Asegúrate de no incluir datos financieros sensibles en data/financial_data/.
 # - Los resultados en data/processed/ (CSVs, gráficos) se generan al ejecutar los scripts.
+
+scripts/summarize_results_for_analysis.py
+.vscode/
