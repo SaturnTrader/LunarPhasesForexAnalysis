@@ -1,10 +1,14 @@
 # Archivos de configuración sensibles
 .env
 
+# Excluir archivos CSV en data/lunar_data/
+data/lunar_data/*.csv
+
 # Datos financieros y resultados generados
 data/financial_data/*
+!data/financial_data/.gitkeep
 data/processed/*
-
+!data/processed/.gitkeep
 # Archivos temporales de Python
 __pycache__/
 *.pyc
@@ -39,3 +43,4 @@ Thumbs.db  # Windows
 
 scripts/summarize_results_for_analysis.py
 .vscode/
+/.gitkeep
