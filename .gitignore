@@ -1,0 +1,8 @@
+data/processed/plots/*.png
+*.csv
+scripts/summarize_results_for_analysis.py
+lunar_phases/
+__pycache__/
+.vscode/
+.env
+venv/
