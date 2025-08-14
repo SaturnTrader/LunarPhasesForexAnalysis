@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```markdown
 # LunarPhasesForexAnalysis
 
@@ -151,3 +152,7 @@ Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
 
 **¡Únete al debate!** ¿Crees que las fases lunares afectan tus decisiones de trading? Prueba el código, revisa los resultados, y comparte tus experiencias en [Rankia](https://www.rankia.com/) o en los issues de este repositorio.
 ```
+=======
+# LunarPhasesForexAnalysis
+Lunar Phases Forex Analysis
+>>>>>>> cad48759bf0d460135378a316ec3b6e78931c2eb
