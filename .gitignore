@@ -8,7 +8,7 @@ data/lunar_data/*.csv
 data/financial_data/*
 !data/financial_data/.gitkeep
 data/processed/*
-!data/processed/.gitkeep
+!data/processed/plots/.gitkeep
 # Archivos temporales de Python
 __pycache__/
 *.pyc
