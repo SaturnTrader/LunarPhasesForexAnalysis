@@ -140,12 +140,3 @@ Sugerencias de mejoras:
 
 ## Licencia
 Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## Agradecimientos
-- A la comunidad de [Rankia](https://www.rankia.com/) por inspirar este análisis.
-- A los autores de `pyswisseph`, `pandas`, y otras librerías utilizadas.
-- A Bikhchandani y Sharma (2000) y Yuan et al. (2006) por sus estudios.
-
----
-
-**¡Únete al debate!** ¿Crees que las fases lunares afectan tus decisiones de trading? Prueba el código, revisa los resultados y comparte tus experiencias en [Rankia](https://www.rankia.com/) o en los issues de este repositorio.
